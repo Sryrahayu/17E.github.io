@@ -176,11 +176,6 @@ header nav a:hover {
   padding: 5px 15px;
 }
 
-.kotak ul li a:hover {
-  background-color: #20b2aa;
-  color: black;
-}
-
 /*Dibuat Oleh Suci Lestari*/
 
 main {
@@ -310,21 +305,6 @@ footer {
   background-size: cover;
   height: 200px;
   width: 100%;
-}
-
-@keyframes example {
-  0% {
-    background-color: #00b894;
-  }
-  25% {
-    background-color: #006400;
-  }
-  50% {
-    background-color: #808000;
-  }
-  100% {
-    background-color: #bc8f8f;
-  }
 }
 
 li {
